@@ -7,6 +7,7 @@ var Content = React.createClass({
             <div className = "content">
                 <h1>Muffin</h1>
                 <Table />
+                <EtapeDeux/>
                 
             </div>
         );

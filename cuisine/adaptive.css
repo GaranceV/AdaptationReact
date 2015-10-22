@@ -1,0 +1,11 @@
+@media only screen and (max-width: 500px) {
+    .etapeDeux {
+        visibility: hidden;
+    }
+}
+@media only screen and (min-width: 500px) {
+    .table {
+        visibility: hidden;
+    }
+}
+
